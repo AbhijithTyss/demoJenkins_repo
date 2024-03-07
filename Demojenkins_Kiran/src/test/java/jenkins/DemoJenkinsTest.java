@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class DemoJenkins {
+public class DemoJenkinsTest {
 	@Test
 	public void demo() {
 		WebDriver driver=new ChromeDriver();
